@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 int main()
 {
 int rows,I,j;
@@ -12,4 +13,20 @@ for(j=1;j<=I;j++)
 printf ("\n");
 }
 return 0;
+=======
+int main()
+{
+int rows,I,j;
+printf ("please enter the number of rows");
+scanf("%d",&rows);
+printf("printing the pattern");
+{
+for(j=1;j<=I;j++)
+{
+     printf ("*");
+}
+printf ("\n");
+}
+return 0;
+>>>>>>> b1a9a5529da6196fbe5bdeb6fe0478db1b787b34
 }
